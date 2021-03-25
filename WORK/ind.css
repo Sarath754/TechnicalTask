@@ -1,0 +1,141 @@
+
+
+ .back-img{
+
+    background-image: url("a.jpg.jpg");
+    width: 60%;
+    background-size: cover;
+    height: 300px;
+    position: absolute;
+ }
+
+ #apple{
+
+    background-image: url(logo-1.svg);
+
+    width: fit-content;
+
+    margin-top: 3%;
+    margin-left: 8%;
+ }
+
+ .text{
+
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 23%;
+    margin-top: 5%;
+ }
+
+ #one{
+
+    font-size:150%;
+    margin-bottom: 20%;
+    margin-top: 11%;
+ }
+
+#two{
+ color: white;
+    margin-top: 3%;
+    margin-left: 8%;
+    font-size:10px;
+}
+
+#three{
+
+    text-align: center;
+    margin-bottom: 1%;
+    margin-top: 3%;
+}
+
+#four{
+
+    text-align: center;
+
+    font-size: 19px;
+}
+
+.img{
+
+    height: 200px;
+}
+
+#six{
+
+    margin-left: 5%;
+}
+
+.white-img{
+
+    background-image: url("a.jpg.jpg");
+    width: 15%;
+    background-size: cover;
+    height: 170px;
+    position: absolute;
+    margin-right: 19%;
+
+}
+
+.textone{
+
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 23%;
+    margin-top: 5%;
+
+
+}
+
+#eleven{
+
+    font-size:100%;
+    margin-bottom: 20%;
+    margin-top: 70%;
+}
+
+
+#oppo{
+
+    text-align: center;
+    /* margin-bottom: 1%; */
+    /* margin-top: 70%; */
+    font-size: 15px;
+    margin-bottom: 5%;
+}
+
+#vivo{
+
+    font-size: 10px;
+    text-align: center
+}
+
+#hwi{
+
+    margin-left: 15%;
+
+    height: 75%;
+}
+ 
+#hwr{
+
+    margin-top: 2%;
+
+    margin-left: 15%;
+
+    height: 75%;
+}
+
+#hwz{
+
+    margin-top: 2%;
+
+    margin-left: 15%;
+
+    height: 75%;
+
+
+}
